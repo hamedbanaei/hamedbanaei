@@ -1,3 +1,5 @@
+[![Hamed Banaei's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamedbanaei)](https://github.com/hamedbanaei/github-readme-stats)
+
 - 👋 Hi, I’m Hamed Banaei
 - 🌱 I've always a student, I love studying new technologies.
 - 🎓 I am currently pursuing my a confidential personal project in Software Security World.
